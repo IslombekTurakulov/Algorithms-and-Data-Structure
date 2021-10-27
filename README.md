@@ -11,4 +11,4 @@ Contests on the subject "Algorithms and Data Structure"
 7. [АиСД_2021. Повторение С++, часть 7. Деревья NoSTL](https://official.contest.yandex.ru/contest/30374/problems/)
 
 ## Theory of A&DS
-[Click here](Theory.md)[newtab]
+<a href="Theory.md" target="_blank">example</a>
