@@ -12,6 +12,7 @@ Contests on the subject "Algorithms and Data Structure"
 8. [АиСД_2021. Повторение C++, часть 8. B, B+, Splay деревья](https://official.contest.yandex.ru/contest/31158/problems/)
 9. [АиСД_2021. Повторение С++, часть 9. Сбалансированные деревья](https://official.contest.yandex.ru/contest/30929/problems/)
 10. [АиСД_2021. Повторение С++, часть 10. Хеширование, хеш-таблицы, СНМ](https://official.contest.yandex.ru/contest/31303/problems/)
+11. [АиСД_2021. Повторение С++, часть 11. Краскал, Фильтр Блума](https://official.contest.yandex.ru/contest/31839/problems/)
 
 ## Theory of A&DS
 <a href="Theory.md" target="_blank">Click here</a>
