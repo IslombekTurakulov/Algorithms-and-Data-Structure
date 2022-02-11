@@ -22,6 +22,7 @@ Contests on the subject "Algorithms and Data Structure"
 
 
 
+
 > 0.500	Экзамен (EX)
 
 > 0.250	Итоговый тест (TS)
