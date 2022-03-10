@@ -28,6 +28,5 @@ Contests on the subject "Algorithms and Data Structure"
 
 > 0.025	Мини-тесты (SM)
 
-
 ## Theory of A&DS
 <a href="Theory.md" target="_blank">Click here</a>
